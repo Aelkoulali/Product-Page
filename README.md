@@ -1,2 +1,3 @@
 # 🗂️ ECHO 👕
-## ✅ Tailwind CSS Project
+## ✅ T-Shirt Shop
+## ✅ Tailwinds CSS Project
